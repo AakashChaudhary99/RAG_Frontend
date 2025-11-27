@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Science+Gothic:wght@100..900&display=swap');
+
+.custom-font{
+  font-family: science-gothi;
+}
